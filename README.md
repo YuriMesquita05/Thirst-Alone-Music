@@ -1,4 +1,4 @@
-##  Criando um README descontraído para o seu projeto
+## Feito durante Imersão Dev com Google Gemini - Alura
 
 **## Thirst Alone Music: A Busca Musical Mais Legal da Internet!**
 
